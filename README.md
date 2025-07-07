@@ -1,4 +1,4 @@
-# Hi there! <img src="https://media1.tenor.com/m/iYA_TGqqq60AAAAC/yoo-cat.gif" width="29px" height="29px">
+# Hi there! <img src="https://media1.tenor.com/m/iYA_TGqqq60AAAAC/yoo-cat.gif" width="50px" height="50px">
 
 ## 😺⌨️ About Me
 
