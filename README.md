@@ -44,13 +44,11 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Skills
-- Full Stack Development
+- Web Development
 - Object-Oriented Programming OOP
 - DevOps
 - Data Structures and Algorithms
 - Software Engineering
-- Frontend Development
-- Embedded Systems
 
 
 ## 😶‍🌫️ Networking
