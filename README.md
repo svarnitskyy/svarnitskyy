@@ -2,9 +2,10 @@
 
 ## 😺⌨️ About Me
 
-- I am Svyatoslav Varnitskyy, a **Software Engineering** graduate from Iowa State University! 
-- I am most skilled in Full Stack Web Development, DevOps, and Embedded Systems
-- I am interested in learning more about Web3
+* I am Svyatoslav Varnitskyy, a **Software Engineering** graduate from Iowa State University!
+* I am currently a **Software Engineer**, with experience in **embedded systems, full-stack development, DevOps, and automated testing**
+* I am skilled in **C++, Python, Java, TypeScript, Dart/Flutter, Docker, gRPC, CI/CD**
+* I enjoy building reliable software, solving complex technical problems, and learning new technologies
 
 😸 When I am not at work, I enjoy travel, trying new foods, and spending time with friends.
 
@@ -44,16 +45,18 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Skills
-- Web Development
-- Object-Oriented Programming OOP
-- DevOps
-- Data Structures and Algorithms
-- Software Engineering
+* Embedded Systems
+* Full-Stack Web Development
+* Object-Oriented Programming (OOP)
+* DevOps & CI/CD
+* Data Structures & Algorithms
+* Software Engineering
+* Automated Testing
+* Distributed Systems & APIs
 
 
 ## 😶‍🌫️ Networking
 - I am currently seeking full-time positions
-- I am also looking to collaborate on web development projects
 - Connect with me down below!
 
 ## 📲🤙Connect with me!
